@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+form{
+	border:1px solid black;
+	padding:20px;
+	margin:10px;
+	width:400px;
+	background-color:cadetblue;
+	
+}
